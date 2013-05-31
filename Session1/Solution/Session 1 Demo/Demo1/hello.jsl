@@ -1,0 +1,9 @@
+import System.*;
+
+public class MainApp
+{
+  public static void main()
+  {
+	Console.WriteLine("J# Hello World!");
+  }
+}

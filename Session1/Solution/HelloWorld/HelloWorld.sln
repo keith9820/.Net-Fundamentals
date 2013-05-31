@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSHelloWorld", "CSHelloWorld\CSHelloWorld.csproj", "{C3695E17-0780-4F22-BC65-92A58F7AD35E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBHelloWorld", "VBHelloWorld\VBHelloWorld.vbproj", "{BB9A6BB8-6A6E-4822-8791-237DE9EC5922}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPPHelloWorld", "CPPHelloWorld\CPPHelloWorld.vcxproj", "{C6151C6D-8467-4CF9-87DE-572DFF38C428}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSHelloWorld", "FSHelloWorld\FSHelloWorld.fsproj", "{BCEBF7F3-4908-4FF5-A2D6-DB2B0D47C09E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{242CB7D5-E278-4A4B-B4A8-1614CAFBABBA}"
+	ProjectSection(SolutionItems) = preProject
+		How to Compile.txt = How to Compile.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3695E17-0780-4F22-BC65-92A58F7AD35E}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{C3695E17-0780-4F22-BC65-92A58F7AD35E}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{C3695E17-0780-4F22-BC65-92A58F7AD35E}.Debug|Win32.ActiveCfg = Debug|x86
+		{C3695E17-0780-4F22-BC65-92A58F7AD35E}.Debug|x86.ActiveCfg = Debug|x86
+		{C3695E17-0780-4F22-BC65-92A58F7AD35E}.Debug|x86.Build.0 = Debug|x86
+		{C3695E17-0780-4F22-BC65-92A58F7AD35E}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{C3695E17-0780-4F22-BC65-92A58F7AD35E}.Release|Mixed Platforms.Build.0 = Release|x86
+		{C3695E17-0780-4F22-BC65-92A58F7AD35E}.Release|Win32.ActiveCfg = Release|x86
+		{C3695E17-0780-4F22-BC65-92A58F7AD35E}.Release|x86.ActiveCfg = Release|x86
+		{C3695E17-0780-4F22-BC65-92A58F7AD35E}.Release|x86.Build.0 = Release|x86
+		{BB9A6BB8-6A6E-4822-8791-237DE9EC5922}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{BB9A6BB8-6A6E-4822-8791-237DE9EC5922}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{BB9A6BB8-6A6E-4822-8791-237DE9EC5922}.Debug|Win32.ActiveCfg = Debug|x86
+		{BB9A6BB8-6A6E-4822-8791-237DE9EC5922}.Debug|x86.ActiveCfg = Debug|x86
+		{BB9A6BB8-6A6E-4822-8791-237DE9EC5922}.Debug|x86.Build.0 = Debug|x86
+		{BB9A6BB8-6A6E-4822-8791-237DE9EC5922}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{BB9A6BB8-6A6E-4822-8791-237DE9EC5922}.Release|Mixed Platforms.Build.0 = Release|x86
+		{BB9A6BB8-6A6E-4822-8791-237DE9EC5922}.Release|Win32.ActiveCfg = Release|x86
+		{BB9A6BB8-6A6E-4822-8791-237DE9EC5922}.Release|x86.ActiveCfg = Release|x86
+		{BB9A6BB8-6A6E-4822-8791-237DE9EC5922}.Release|x86.Build.0 = Release|x86
+		{C6151C6D-8467-4CF9-87DE-572DFF38C428}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{C6151C6D-8467-4CF9-87DE-572DFF38C428}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{C6151C6D-8467-4CF9-87DE-572DFF38C428}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C6151C6D-8467-4CF9-87DE-572DFF38C428}.Debug|Win32.Build.0 = Debug|Win32
+		{C6151C6D-8467-4CF9-87DE-572DFF38C428}.Debug|x86.ActiveCfg = Debug|Win32
+		{C6151C6D-8467-4CF9-87DE-572DFF38C428}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{C6151C6D-8467-4CF9-87DE-572DFF38C428}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{C6151C6D-8467-4CF9-87DE-572DFF38C428}.Release|Win32.ActiveCfg = Release|Win32
+		{C6151C6D-8467-4CF9-87DE-572DFF38C428}.Release|Win32.Build.0 = Release|Win32
+		{C6151C6D-8467-4CF9-87DE-572DFF38C428}.Release|x86.ActiveCfg = Release|Win32
+		{BCEBF7F3-4908-4FF5-A2D6-DB2B0D47C09E}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{BCEBF7F3-4908-4FF5-A2D6-DB2B0D47C09E}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{BCEBF7F3-4908-4FF5-A2D6-DB2B0D47C09E}.Debug|Win32.ActiveCfg = Debug|x86
+		{BCEBF7F3-4908-4FF5-A2D6-DB2B0D47C09E}.Debug|x86.ActiveCfg = Debug|x86
+		{BCEBF7F3-4908-4FF5-A2D6-DB2B0D47C09E}.Debug|x86.Build.0 = Debug|x86
+		{BCEBF7F3-4908-4FF5-A2D6-DB2B0D47C09E}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{BCEBF7F3-4908-4FF5-A2D6-DB2B0D47C09E}.Release|Mixed Platforms.Build.0 = Release|x86
+		{BCEBF7F3-4908-4FF5-A2D6-DB2B0D47C09E}.Release|Win32.ActiveCfg = Release|x86
+		{BCEBF7F3-4908-4FF5-A2D6-DB2B0D47C09E}.Release|x86.ActiveCfg = Release|x86
+		{BCEBF7F3-4908-4FF5-A2D6-DB2B0D47C09E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

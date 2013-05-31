@@ -1,0 +1,21 @@
+C#:
+
+#> csc helloworld.cs /out:hello_cs.exe
+
+C++ (.NET):
+
+#> cl /clr hello.cpp
+
+VB.NET:
+
+#> vbc helloworld.vb /out:hello_vb.exe
+
+LOLCode:
+
+#> lolc hello.lol /r:stdlol.dll /out:hello_lol.exe
+
+F#:
+fsc helloworld.fs
+
+IL:
+#> ilasm helo.il /out:hello_il.exe /exe
